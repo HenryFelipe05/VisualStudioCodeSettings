@@ -1,0 +1,27 @@
+/*Configuração VS Code - 08/03/2024*/
+
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 0,
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "symbols",
+    "workbench.colorTheme": "Min Dark",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "editor.rulers": [100, 140],
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "symbols.hidesExplorerArrows": false,
+    "apc.font.family": "Inter",
+    "apc.stylesheet": {
+        ".pane-body": "padding: 8px",
+        ".pane-header": "padding: 0 8px"
+    },
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "extensions.ignoreRecommendations": true
+}
